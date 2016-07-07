@@ -1,0 +1,7 @@
+Update 1.1:
+	- chat working
+	- displays IP
+	- nice dark design
+	- <, >, ", and messages over 80 chars are not entered into the system
+	
+Update 1.2:
